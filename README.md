@@ -1,2 +1,3 @@
-# gallery
+#Poor gallery
+without OOP
 
